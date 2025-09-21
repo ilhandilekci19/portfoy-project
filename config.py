@@ -1,2 +1,2 @@
 DATABASE="portfoy.db"
-token=""
+TOKEN="kendi tokeninizi yazınız"
